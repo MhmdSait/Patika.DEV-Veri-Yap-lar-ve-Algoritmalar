@@ -1,1 +1,1 @@
-# Patika.DEV-Veri-Yap-lar-ve-Algoritmalar
+# Patika.DEV-Veri-Yapıları-ve-Algoritmalar
