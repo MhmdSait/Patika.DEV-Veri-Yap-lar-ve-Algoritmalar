@@ -1,3 +1,3 @@
 # Patika.DEV-Veri-Yapıları-ve-Algoritmalar
 
-https://app.patika.dev
+www.patika.dev 
